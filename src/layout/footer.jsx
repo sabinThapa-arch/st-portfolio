@@ -121,7 +121,7 @@ export default function Footer() {
       <div className="relative z-10 mx-auto flex max-w-6xl flex-col items-center justify-between gap-4 border-t border-white/10 pt-6 text-xs text-gray-400 md:flex-row">
         <p>© 2026 Sabin Thapa</p>
         <a
-          href="https://github.com/sabinThapa-arch"
+          href="https://github.com/sabinThapa-arch/st-portfolio"
           target="_blank"
           rel="noreferrer"
           className="text-sky-400 hover:underline"
