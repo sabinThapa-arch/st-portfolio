@@ -80,7 +80,7 @@ export default function Header() {
       />
 
       <div
-        className={`fixed left-0 right-0 top-[88px] z-50 mx-4 origin-top rounded-2xl border border-white/10 bg-[#111111]/95 p-3 shadow-2xl backdrop-blur-xl transition-all duration-300 md:hidden ${
+        className={`fixed left-0 right-0 top-22 z-50 mx-4 origin-top rounded-2xl border border-white/10 bg-[#111111]/95 p-3 shadow-2xl backdrop-blur-xl transition-all duration-300 md:hidden ${
           menuOpen
             ? "translate-y-0 scale-100 opacity-100"
             : "pointer-events-none -translate-y-4 scale-95 opacity-0"
